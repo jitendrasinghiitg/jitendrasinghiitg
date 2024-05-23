@@ -6,9 +6,10 @@
 
 ## Summary
 
-Highly skilled software engineer with over 5 years of experience in full-stack development. Proficient in JavaScript, Python, and Ruby on Rails. Adept at developing scalable web applications and working in agile environments. Passionate about coding, problem-solving, and continuous learning.
+Accomplished Machine Learning Engineer with 7+ years of experience in developing and deploying advanced ML models and algorithms. Expertise in Python, TensorFlow, PyTorch, scikit-learn, and deep learning techniques. Skilled in data analysis, feature engineering, model training, and optimization. 
 
----
+Passionate about leveraging cutting-edge technologies to solve complex problems and drive innovation.
+
 
 ## Education
 
